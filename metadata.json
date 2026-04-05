@@ -1,0 +1,5 @@
+{
+  "name": "Fuelerate Pulse",
+  "description": "Headless monitoring engine for Shopify conversion leaks using Playwright and real-time analytics.",
+  "requestFramePermissions": []
+}
